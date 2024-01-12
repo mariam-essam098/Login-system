@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    text-transform: capitalize;
+    background-color: #402B3A;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+h1 {
+    color: white;
+    font-size: 2.5rem;
+}
+
+.container {
+
+    box-shadow: 0 0 5px 2px rgba(255, 255, 255, 0.35);
+}
+
+
+input {
+
+    color: #F8F4EC;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+}
+
+
+#welcome {
+    margin-top: 8rem !important;
+}
